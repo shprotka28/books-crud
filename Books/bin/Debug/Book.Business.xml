@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Book.Business</name>
+    </assembly>
+    <members>
+        <member name="T:Books.Business.BookService">
+            <summary>
+            For communication between the user interface and the database + 
+            for easy change of the dataAccess to any ORM or to any data base
+            </summary>
+        </member>
+        <member name="M:Books.Business.BookService.Delete(System.Int32)">
+            <summary>
+            retrieve a service from a context
+            </summary>
+            <param name="bookID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Books.Business.BookService.GetAll">
+            <summary>
+            retrieve a service from a context
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Books.Business.BookService.Save(Books.Core.Book,Books.Core.EntityState)">
+            <summary>
+            Save changes
+            </summary>
+            <param name="obj"></param>
+            <param name="state"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Books.Business.BookService.Update(Books.Core.Book,Books.Core.EntityState)">
+            <summary>
+            Edit
+            </summary>
+            <param name="obj"></param>
+            <param name="state"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Book.Business.PdfLibraryService">
+            <summary>
+            For communication between the user interface and the database
+            </summary>
+        </member>
+        <member name="M:Book.Business.PdfLibraryService.Delete(System.Int32)">
+            <summary>
+            retrieve a service from a context
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Book.Business.PdfLibraryService.GetAll">
+            <summary>
+            retrieve a service from a context
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Book.Business.PdfLibraryService.Save(Books.Core.PdfLibrary,Books.Core.EntityState)">
+            <summary>
+            retrieve a service from a context
+            </summary>
+            <param name="obj"></param>
+            <param name="state"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

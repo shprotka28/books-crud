@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Books.DataAccess</name>
+    </assembly>
+    <members>
+        <member name="T:Books.DataAccess.BookRepository">
+            <summary>
+            Contains the CRUD functions, used on books_management table
+            Implements <see cref="T:Books.Core.IBookRepository"/>
+            </summary>
+        </member>
+        <member name="M:Books.DataAccess.BookRepository.Delete(System.Int32)">
+            <summary>
+            Deletes an entry from the books_managemet table
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="P:Books.DataAccess.BookRepository.GetAll">
+            <summary>
+            Gets all entries from the books_management table
+            </summary>
+        </member>
+        <member name="M:Books.DataAccess.BookRepository.Insert(Books.Core.Book)">
+            <summary>
+            Adds a new book to the books_management table 
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Books.DataAccess.BookRepository.Update(Books.Core.Book)">
+            <summary>
+            Updates already existing data entries
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Books.DataAccess.Helper">
+            <summary>
+            Creates a connection to the database
+            </summary>
+        </member>
+        <member name="T:Books.DataAccess.PdfRepository">
+            <summary>
+            Contains the CRUD functions used on pdf_library table
+            Implements <see cref="T:Books.Core.IPdfRepository"/>
+            </summary>
+        </member>
+        <member name="M:Books.DataAccess.PdfRepository.Delete(System.Int32)">
+            <summary>
+            Deletes an entry from the pdf_library table
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="P:Books.DataAccess.PdfRepository.GetAll">
+            <summary>
+            Gets all entries from the pdf_library table
+            </summary>
+        </member>
+        <member name="M:Books.DataAccess.PdfRepository.Insert(Books.Core.PdfLibrary)">
+            <summary>
+            Adds a new entry to the pdf_library table
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

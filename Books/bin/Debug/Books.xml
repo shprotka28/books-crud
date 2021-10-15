@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Books</name>
+    </assembly>
+    <members>
+        <member name="T:Books.Library">
+            <summary>
+            Represents the user interface
+            </summary>
+        </member>
+        <member name="M:Books.Library.btnAdd_Click(System.Object,System.EventArgs)">
+            <summary>
+            Adds a new book
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Books.Library.btnEdit_Click(System.Object,System.EventArgs)">
+            <summary>
+            The user updates already existing data
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Books.Library.btnDelete_Click(System.Object,System.EventArgs)">
+            <summary>
+            The user deletes an entry from books
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Books.Library.btnSave_Click(System.Object,System.EventArgs)">
+            <summary>
+            Saves the changes written in the textboxes(could be either adding a new entry or updating existing entry) to books
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Books.Library.metroButton1_Click(System.Object,System.EventArgs)">
+            <summary>
+            Browse button opens a file dialog from where the user can select a file to read
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Books.Library.metroGrid2_CellContentClick_1(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)">
+            <summary>
+            If the user clicks on the Load button, the entry will be loaded
+            If the user clicks on the Delete button the entry will be deleted
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:Books.Library.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Books.Library.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Books.Library.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Books.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Books.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Books.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Books.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Books.Core</name>
+    </assembly>
+    <members>
+        <member name="T:Books.Core.Book">
+            <summary>
+            References books_managment table 
+            </summary>
+        </member>
+        <member name="P:Books.Core.Book.id">
+            Refference to id 
+        </member>
+        <member name="P:Books.Core.Book.book_name">
+            Refference to book_name 
+        </member>
+        <member name="P:Books.Core.Book.book_author">
+            Refference to book_author 
+        </member>
+        <member name="P:Books.Core.Book.genre">
+            Refference to book_author 
+        </member>
+        <member name="T:Books.Core.EntityState">
+            <summary>
+            value type defined by a set of named constants of the underlying integral numeric type. 
+            </summary>
+        </member>
+        <member name="T:Books.Core.IBookRepository">
+            <summary>
+            Contains the CRUD functions, used on books_management table
+            </summary>
+        </member>
+        <member name="P:Books.Core.IBookRepository.GetAll">
+            <summary>
+            Gets all entries from the books_management table
+            </summary>
+        </member>
+        <member name="M:Books.Core.IBookRepository.Insert(Books.Core.Book)">
+            <summary>
+            Adds a new book to the books_management table 
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Books.Core.IBookRepository.Update(Books.Core.Book)">
+            <summary>
+            Updates already existing data entries
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Books.Core.IBookRepository.Delete(System.Int32)">
+            <summary>
+            Deletes an entry from the books_managemet table
+            </summary>
+            <param name="bookID"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Books.Core.IPdfRepository">
+            <summary>
+            Contains the CRUD functions used on pdf_library table
+            </summary>
+        </member>
+        <member name="P:Books.Core.IPdfRepository.GetAll">
+            <summary>
+            Adds a new entry to the pdf_library table
+            </summary>
+        </member>
+        <member name="M:Books.Core.IPdfRepository.Insert(Books.Core.PdfLibrary)">
+            <summary>
+            Gets all entries from the pdf_library table
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Books.Core.IPdfRepository.Delete(System.Int32)">
+            <summary>
+            Deletes an entry from the pdf_library table
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Books.Core.PdfLibrary">
+            <summary>
+            References pdf_library table
+            </summary>
+        </member>
+        <member name="P:Books.Core.PdfLibrary.id">
+            Refference to id 
+        </member>
+        <member name="P:Books.Core.PdfLibrary.content">
+            Refference to content 
+        </member>
+        <member name="P:Books.Core.PdfLibrary.file_name">
+            Refference to file_name 
+        </member>
+    </members>
+</doc>

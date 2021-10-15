@@ -1,0 +1,24 @@
+C:\Users\gosum\source\repos\Books\Books.Core\bin\Debug\Books.Core.dll
+C:\Users\gosum\source\repos\Books\Books.Core\bin\Debug\Books.Core.pdb
+C:\Users\gosum\source\repos\Books\Books.Core\obj\Debug\Books.Core.csprojAssemblyReference.cache
+C:\Users\gosum\source\repos\Books\Books.Core\obj\Debug\Books.Core.csproj.CoreCompileInputs.cache
+C:\Users\gosum\source\repos\Books\Books.Core\obj\Debug\Books.Core.dll
+C:\Users\gosum\source\repos\Books\Books.Core\obj\Debug\Books.Core.pdb
+C:\Users\gosum\source\repos\local backup\Books\Books.Core\bin\Debug\Books.Core.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.Core\bin\Debug\Books.Core.pdb
+C:\Users\gosum\source\repos\local backup\Books\Books.Core\obj\Debug\Books.Core.csproj.CoreCompileInputs.cache
+C:\Users\gosum\source\repos\local backup\Books\Books.Core\obj\Debug\Books.Core.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.Core\obj\Debug\Books.Core.pdb
+C:\Users\PC\Desktop\books-crud-final-master\Books.Core\bin\Debug\Books.Core.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.Core\bin\Debug\Books.Core.pdb
+C:\Users\PC\Desktop\books-crud-final-master\Books.Core\obj\Debug\Books.Core.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\books-crud-final-master\Books.Core\obj\Debug\Books.Core.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.Core\obj\Debug\Books.Core.pdb
+C:\Users\PC\Desktop\books-crud-final-master\Books.Core\bin\Debug\Books.Core.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.Core\bin\Debug\Books.Core.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.Core\bin\Debug\Books.Core.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.Core\bin\Debug\Books.Core.pdb
+G:\coding 1\books-crud-final\books-crud-final-master\Books.Core\obj\Debug\Books.Core.csproj.AssemblyReference.cache
+G:\coding 1\books-crud-final\books-crud-final-master\Books.Core\obj\Debug\Books.Core.csproj.CoreCompileInputs.cache
+G:\coding 1\books-crud-final\books-crud-final-master\Books.Core\obj\Debug\Books.Core.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.Core\obj\Debug\Books.Core.pdb

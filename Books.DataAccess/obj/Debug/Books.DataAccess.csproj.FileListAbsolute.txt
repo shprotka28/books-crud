@@ -1,0 +1,119 @@
+C:\Users\gosum\source\repos\Books\Books.DataAccess\bin\Debug\Books.DataAccess.dll
+C:\Users\gosum\source\repos\Books\Books.DataAccess\bin\Debug\Books.DataAccess.pdb
+C:\Users\gosum\source\repos\Books\Books.DataAccess\bin\Debug\Books.Core.dll
+C:\Users\gosum\source\repos\Books\Books.DataAccess\bin\Debug\Dapper.dll
+C:\Users\gosum\source\repos\Books\Books.DataAccess\bin\Debug\Books.Core.pdb
+C:\Users\gosum\source\repos\Books\Books.DataAccess\bin\Debug\Dapper.xml
+C:\Users\gosum\source\repos\Books\Books.DataAccess\obj\Debug\Books.DataAccess.csprojAssemblyReference.cache
+C:\Users\gosum\source\repos\Books\Books.DataAccess\obj\Debug\Books.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gosum\source\repos\Books\Books.DataAccess\obj\Debug\Books.DataAccess.csproj.CopyComplete
+C:\Users\gosum\source\repos\Books\Books.DataAccess\obj\Debug\Books.DataAccess.dll
+C:\Users\gosum\source\repos\Books\Books.DataAccess\obj\Debug\Books.DataAccess.pdb
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\Books.DataAccess.dll.config
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\Books.DataAccess.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\Books.DataAccess.pdb
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\Books.Core.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\Dapper.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\Google.Protobuf.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\Renci.SshNet.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\System.Buffers.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\System.Memory.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\Zstandard.Net.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\Books.Core.pdb
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\Dapper.xml
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\Google.Protobuf.xml
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\MySql.Data.xml
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\Renci.SshNet.xml
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\System.Buffers.xml
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\System.Memory.xml
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\obj\Debug\Books.DataAccess.csprojAssemblyReference.cache
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\obj\Debug\Books.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\obj\Debug\Books.DataAccess.csproj.CopyComplete
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\obj\Debug\Books.DataAccess.dll
+C:\Users\gosum\source\repos\local backup\Books\Books.DataAccess\obj\Debug\Books.DataAccess.pdb
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Books.DataAccess.dll.config
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Books.DataAccess.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Books.DataAccess.pdb
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Books.Core.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Dapper.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Renci.SshNet.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Zstandard.Net.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Books.Core.pdb
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Dapper.xml
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\MySql.Data.xml
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Renci.SshNet.xml
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\obj\Debug\Books.DataAccess.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\obj\Debug\Books.DataAccess.csproj.CopyComplete
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\obj\Debug\Books.DataAccess.dll
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\obj\Debug\Books.DataAccess.pdb
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Books.DataAccess.xml
+C:\Users\PC\Desktop\books-crud-final-master\Books.DataAccess\bin\Debug\Books.Core.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Books.DataAccess.dll.config
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Books.DataAccess.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Books.DataAccess.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Books.DataAccess.pdb
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Books.Core.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\BouncyCastle.Crypto.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Dapper.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Google.Protobuf.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\K4os.Compression.LZ4.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\K4os.Hash.xxHash.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\MySql.Data.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Renci.SshNet.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\System.Buffers.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\System.Memory.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\System.Numerics.Vectors.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Ubiety.Dns.Core.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Zstandard.Net.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Books.Core.pdb
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Books.Core.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Dapper.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Google.Protobuf.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\K4os.Compression.LZ4.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\K4os.Hash.xxHash.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\MySql.Data.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\Renci.SshNet.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\System.Buffers.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\System.Memory.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\System.Numerics.Vectors.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\obj\Debug\Books.DataAccess.csproj.AssemblyReference.cache
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\obj\Debug\Books.DataAccess.csproj.CoreCompileInputs.cache
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\obj\Debug\Books.DataAccess.csproj.CopyComplete
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\obj\Debug\Books.DataAccess.dll
+G:\coding 1\books-crud-final\books-crud-final-master\Books.DataAccess\obj\Debug\Books.DataAccess.pdb
